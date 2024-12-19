@@ -11,3 +11,4 @@ Estos son mis aportes a los retos propuestos en el Codember
 ## Secretos
 | <img width="378" alt="image" src="https://github.com/user-attachments/assets/7b7bb68d-722c-4b01-bc21-e1e55124edfc" /> <br> Obtenido: 17 de diciembre de 2024 | <img width="378" alt="image" src="https://github.com/user-attachments/assets/77921cbd-e9ef-48e2-b6be-7b9cca740db9" /> <br> Obtenido: 17 de diciembre de 2024 | <img width="378" alt="image" src="https://github.com/user-attachments/assets/f22f3bbc-ddbc-468e-be8c-40665b475f30" /> <br> Obtenido: 18 de diciembre de 2024 |
 | --- | --- | --- |
+|  ![image](https://github.com/user-attachments/assets/e2a7368c-e68c-41fb-bc65-ed9576a32371) </div> <br> <b>Obtenido: 19 de diciembre de 2024</b> |
